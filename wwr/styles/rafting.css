@@ -99,8 +99,8 @@ div h1 {
     margin: 10px;
     border: 1px solid rgb(0 0 0 / 0.2);
     box-shadow: 0 0 50px grey;
-    background-color: var(--try-color);
-    color: white;
+    background-color: var(--background-color);
+    color: rgb(255 150 0);
     position: absolute;
     top: 115px;
     left: 300px;
@@ -177,12 +177,12 @@ footer p {
     margin-right: 5rem;
 }
 
-.socialmedias {
+.socialmedia {
     display: flex;
     justify-content: space-around;
     margin-left: 2rem;
 }
 
-.socialmedias a {
+.socialmedia a {
     text-decoration: none;
 }
